@@ -1,0 +1,1 @@
+0eb7dbfc-8080-451c-b9a6-32d07657a97b autoenable=true bucket=openneuro-derivatives datacenter=US encryption=none exporttree=yes fileprefix=xcpd/ds003007-xcpd/ host=s3.amazonaws.com name=openneuro-derivatives partsize=1GiB port=80 public=no publicurl=https://openneuro-derivatives.s3.amazonaws.com storageclass=STANDARD type=S3 versioning=yes timestamp=1773170369s
